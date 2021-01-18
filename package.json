@@ -35,7 +35,7 @@
     "babel-register": "6.26.0",
     "chai": "4.2.0",
     "mocha": "8.2.1",
-    "rollup": "2.36.1",
+    "rollup": "2.36.2",
     "rollup-plugin-babel": "3.0.0",
     "rollup-plugin-node-resolve": "5.2.0"
   },
